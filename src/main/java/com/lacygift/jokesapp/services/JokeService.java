@@ -1,0 +1,5 @@
+package com.lacygift.jokesapp.services;
+
+public interface JokeService {
+    String getJoke();
+}
